@@ -11,8 +11,8 @@ package if1.pkg10119010.latihan47.nilaimahasiswa;
  * NAMA     : Maulana Imam Malik
  * KELAS    : IF1
  * NIM      : 10119010
- * Deskripsi Program : Program ini berisi program untuk menampilkan 
- *                     berdasarkan umur dengan konsep OOP
+ * Deskripsi Program : Program ini berisi program untuk menampilkan nilai
+ *                     mahasiswa dengan konsep OOP
  */
 public class IF110119010Latihan47NilaiMahasiswa {
 
