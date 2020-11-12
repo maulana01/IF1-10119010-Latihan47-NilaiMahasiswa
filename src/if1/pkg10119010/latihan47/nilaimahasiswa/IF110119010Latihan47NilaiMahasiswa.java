@@ -40,8 +40,11 @@ public class IF110119010Latihan47NilaiMahasiswa {
         System.out.println("UAS\t\t\t = " + uas);
         System.out.println();
         System.out.println();
-        System.out.println("Nilai Akhir\t\t\t = " + nilaiAkhir);
-        System.out.println("Keterangan\t\t\t = " + keterangan);
+        System.out.println("Nilai Akhir\t\t = " + nilaiAkhir);
+        System.out.println();
+        System.out.println();
+        System.out.println("Index\t\t\t = " + str);
+        System.out.println("Keterangan\t\t = " + keterangan);
     }
     
 }
