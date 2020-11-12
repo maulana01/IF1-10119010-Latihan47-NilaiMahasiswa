@@ -32,6 +32,7 @@ public class IF110119010Latihan47NilaiMahasiswa {
         double uas = nilaimahasiswa.getNilaiUas();
         double nilaiAkhir = nilaimahasiswa.nilaiAkhir(quiz, uts, uas);
         char index = nilaimahasiswa.index(nilaiAkhir);
+        // Konversi dari char ke string
         String str = String.valueOf(index);
         String keterangan = nilaimahasiswa.keterangan(str);
         
